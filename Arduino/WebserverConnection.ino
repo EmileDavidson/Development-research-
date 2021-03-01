@@ -4,7 +4,7 @@
 #include <ESP8266mDNS.h>
 
 const char* ssid     = "Ziggo3E5C383"; // wifi lan station id
-const char* password = "kk74Rmyemesz"; // wifi lan password
+const char* password = "pass"; // wifi lan password
 
 
 ESP8266WebServer server(80);
